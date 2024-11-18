@@ -13,7 +13,7 @@ export default function Home() {
             className="relative w-48 h-48 md:w-64 md:h-64 mb-8 rounded-full overflow-hidden ring-4 ring-indigo-600 ring-offset-4"
           >
             <img
-              src="image.jpg"
+              src="/image.jpg"
               alt="Profile"
               className="w-full h-full object-cover"
             />
